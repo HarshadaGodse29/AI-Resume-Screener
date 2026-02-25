@@ -7,3 +7,7 @@ scikit-learn
 PyMuPDF
 python-docx
 reportlab
+nltk
+spacy
+PyPDF2
+matplotlib

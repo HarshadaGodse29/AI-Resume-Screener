@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset
+data/
+*.csv
+
+# Generated resumes
+generated_resumes/
+
+# Models
+models/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Egg info
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
